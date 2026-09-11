@@ -2,10 +2,6 @@
 
 A modern and responsive personal resume/portfolio website that showcases my profile, skills, education, projects, experience, certifications, and contact information.
 
-## 🚀 Live Demo
-
-👉 [View Live Website](YOUR_LIVE_LINK_HERE)
-
 ## 📌 About
 
 This website is designed to present my professional profile online. It provides an easy way for recruiters, companies, and visitors to learn about my skills, projects, education, and experience.
